@@ -1,0 +1,4 @@
+streamlit>=1.10
+pandas>=1.4
+sqlalchemy>=1.4
+pymysql>=1.0
