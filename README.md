@@ -47,15 +47,21 @@ The core issue is inefficient redistribution of surplus food—food that could b
 ## Setup Instructions
 
 1. Clone this repository:
+```bash
 git clone <repository-url>
 cd <repository-folder>
+```
+
 
 text
 
 2. Create a virtual environment and install dependencies:
+```bash
 python -m venv venv
-source venv/bin/activate # On Windows use: venv\Scripts\activate
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
+```
+
 
 text
 
@@ -97,20 +103,6 @@ This project enhanced my skills in:
 - Building responsive web apps using Streamlit.
 - Addressing social issues with technology.
 - Understanding food redistribution logistics and community impact.
-
----
-
-## Contributions
-
-Contributions and improvements are welcome! Please feel free to open issues or submit pull requests.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
 
 *Thank you for your interest in the Local Food Wastage Management System.*  
 Together, let's reduce waste and promote food justice.
